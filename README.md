@@ -33,7 +33,7 @@ Want to contribute? Follow these steps: 1. Fork the repo 2. Create a new branch 
 
 This project is licensed under the MIT License. See the LICENSE file for more information. 📬 Contact
 
-For questions or suggestions: • Project Lead: kotha.yasaswini • GitHub Repository: yasaswini2007 • Email: kotha.yasaswini@s.amity.edu
+For questions or suggestions: • Project Lead: shankaragouda patil • GitHub Repository: shankaragouda77 • Email: shankaragouda.patil@s.amity.edu
 
 🙏 Acknowledgments • Special thanks to our faculty guide for support and feedback • All the open-source tools and libraries used • Educational platforms that inspired our design
 <!--
